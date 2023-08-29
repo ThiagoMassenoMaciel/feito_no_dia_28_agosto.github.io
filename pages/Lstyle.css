@@ -1,0 +1,46 @@
+*{
+  box-sizing: border-box;
+
+  margin: 0;
+  padding: 0;
+
+}
+
+:root{
+  font-size: 62.5%;
+}
+
+body{
+  display: grid;
+  place-content: center;
+  align-items: center;
+  background-color: hsl(0, 0%, 0%);
+  height: 100vh;
+}
+
+@keyframes anime{
+
+  from{
+    transform: rotate(0deg);
+  }
+  
+  to{
+    transform: rotate(9990deg);
+  }
+}
+
+
+img{
+  animation-name: anime;
+  animation-duration: 5s;
+  animation-timing-function: unset;
+  animation-iteration-count: infinite;
+
+}
+
+/*Back grounds*/
+
+.here{
+  display: none;
+}
+

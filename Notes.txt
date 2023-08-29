@@ -1,0 +1,19 @@
+- Conceitos de SPA;
+- Mapeamento de rotas;
+- Assíncrono e promises;
+- Orientação a objetos;
+- Classes e muito mais.
+
+Logica Aplicada na Simple Page Aplication e Imagens de background
+
+div com display none 
+hover na guia do menu classe ..menu_item_clicked
+
+Html css Structure made in 2h30'
+
+
+Error  
+  DOM ("faltou eu colocar o ponto ")
+
+
+  
